@@ -1,2 +1,2 @@
 # virtual-keyboard
-learning in RScoole
+learning in RS
